@@ -1,0 +1,22 @@
+{
+      "developerGuild": "Your Guild ",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "token": "Your Bot Token",
+    "mongodb": "Mongo DB data base",
+    "BrainShopAPI": "your brain shop api",
+  "OPENAI_ORG": "your openai org",
+    "auth": "Ignore this",
+  "api": "chat bot api",
+"apiKey": "ignore this",
+"prefix": "!", //ignore//
+"color": {
+        "embed": "#2f3136",
+        "no": "#FA0000",
+        "yes": "#00FF00"
+    },
+    "chatbot": {
+        "channelID": "1101154393291763732" //chat bot channel id  but you can set it in index.js line 111//
+    }
+}
