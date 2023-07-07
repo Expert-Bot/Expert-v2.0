@@ -20,7 +20,7 @@ A discord multipuspose Bot with AI image and premium system 🌟``
 **Commands info**
 # Fun, logs, automode, antinute, ticket, chatbot, midjourney, application, meme, anime, music, buttons, welcome system, verification and more you can see by invite Expert into your server
 **Clickable Commands**
-
+# noprefix system is just for testing if you like it then i will make it more commands like no prefix system 
 ![image](https://user-images.githubusercontent.com/92865043/232497758-aaf08f8d-0ce6-4715-9a52-0ec43c40e3cb.png)
 
 **Features**
