@@ -1,7 +1,7 @@
 # Expert V2.0 Is published Now
 **New Features**
 **chatbot**, **economy with leaderboard**, **some button funtions on Music** and **Some other commands**
-# Made by ![image](https://media.discordapp.net/attachments/1115310347239309334/1126873855949013114/image.png)
+# Made by ![image](https://media.discordapp.net/attachments/1126649485871816845/1126874376130797618/image.png)
 **A multifunctional Discord bot With Ai image generate**
 
 I will make dashboard for this for if you invite Bot more then 50 server! 
