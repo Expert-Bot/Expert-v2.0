@@ -1,4 +1,4 @@
-![image](https://github.com/XEpert-Bot/Expert-v2.0/assets/92865043/8e13c420-0e09-4150-9787-f2bc865d2829)# Expert V2.0 Is published Now
+# Expert V2.0 Is published Now
 **New Features**
 **chatbot**, **economy with leaderboard**, **some button funtions on Music** and **Some other commands**
 
@@ -35,8 +35,8 @@ A discord multipuspose Bot with AI image and premium system 🌟``
 ![image](https://media.discordapp.net/attachments/1101154365391245333/1126871008721248296/image.png)
 ![image](https://media.discordapp.net/attachments/1101154365391245333/1126871121124413603/image.png)
 ![image](https://media.discordapp.net/attachments/1101154365391245333/1126871173104410754/file.jpg)
-![image](![image](https://github.com/XEpert-Bot/Expert-v2.0/assets/92865043/2da07c5b-982d-4ff2-9f1f-960da61d7036)
-)
+![image](https://github.com/XEpert-Bot/Expert-v2.0/assets/92865043/8e13c420-0e09-4150-9787-f2bc865d2829)
+![image](https://github.com/XEpert-Bot/Expert-v2.0/assets/92865043/2da07c5b-982d-4ff2-9f1f-960da61d7036)
 And much more 
 
 
