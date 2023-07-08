@@ -39,7 +39,7 @@ A discord multipuspose Bot with AI image and premium system 🌟``
 ![image](https://github.com/XEpert-Bot/Expert-v2.0/assets/92865043/2da07c5b-982d-4ff2-9f1f-960da61d7036)
 And much more 
 
-
+# support server https://discord.gg/dj44zMsnNX
 start with installing pakage ``npm install``
 Run with using command ``npm start run``
 
