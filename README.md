@@ -26,3 +26,4 @@
 <li>Set yourself As a AFK</span></li>
 <li>you can search and See Anime Image</span></li>
 <li>Generate Ai Image and Much More Just Add Expert to your server and type /help to seen all commands info</span></li>
+little updates here https://github.com/hotsu0p/Expert-v3.0
